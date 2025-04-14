@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Texturepack for the Combat Enchantments datapack",
+        "pack_format": 42,
+        "supported_formats":[15,320]
+    }
+}
